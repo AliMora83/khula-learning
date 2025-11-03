@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///workspaces/khula-learning/app/page.tsx"],"sourcesContent":["import Header from '@/components/Header';\nimport Hero from '@/components/Hero';\nimport About from '@/components/About';\nimport Pricing from '@/components/Pricing';\nimport WaitlistForm from '@/components/WaitlistForm';\nimport Footer from '@/components/Footer';\n\nexport default function Home() {\n  return (\n    <main>\n      <Header />\n      <Hero />\n      <About />\n      <Pricing />\n      <WaitlistForm />\n      <Footer />\n    </main>\n  );\n}"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAOe,SAAS;IACtB,qBACE,8OAAC;;0BACC,8OAAC;;;;;0BACD,8OAAC;;;;;0BACD,8OAAC;;;;;0BACD,8OAAC;;;;;0BACD,8OAAC;;;;;0BACD,8OAAC;;;;;;;;;;;AAGP","debugId":null}}]
+}
